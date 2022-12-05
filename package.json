@@ -23,5 +23,9 @@
     "nodemon": "^2.0.20",
     "redis": "^3.1.2",
     "winston": "^3.7.2"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "md5": "^2.3.0"
   }
 }

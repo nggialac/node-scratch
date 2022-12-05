@@ -1,0 +1,12 @@
+@urlDev=http://localhost:3051
+
+### checkStatus
+GET {{urlDev}}/api/replays?test=asdad
+content-type: application/json
+
+{
+    "stime": "a",
+    "sign": "SERVER_SIGN",
+    "nonce": "a",
+    "club": ""
+}
