@@ -1,0 +1,8 @@
+@urlDev=http://localhost:3051
+
+### checkStatus
+GET {{urlDev}}/checkstatus
+
+### checkVersion
+GET {{urlDev}}/api/users
+x-github-api-version: 2022-12-01
